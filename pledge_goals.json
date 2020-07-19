@@ -1,0 +1,10 @@
+{
+	"gaol": [{
+		"monthly": "$200.00",
+		"basic": "40",
+		"premium": "80",
+		"onyx": "30",
+		"platinum": "20",
+		"bronze": "1"
+	}]
+}
