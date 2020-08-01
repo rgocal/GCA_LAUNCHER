@@ -1,8 +1,8 @@
 {
 	"gaol": [{
 		"monthly": "$350.00",
-		"basic": "0",
-		"premium": "0",
+		"basic": "2",
+		"premium": "1.50",
 		"onyx": "0",
 		"platinum": "0",
 		"bronze": "0"
