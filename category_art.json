@@ -1,0 +1,114 @@
+{
+  "art": [
+    {
+      "author": "Steve Johnson",
+      "name": "Abstract",
+      "wall_url": "https://images.unsplash.com/photo-1523895665936-7bfe172b757d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "author_url": "https://unsplash.com/@steve_j",
+      "wall_details": "Green, Yellow, and Red abstract painting",
+      "wall_date": "April 16, 2018",
+      "wall_dimens": "4608 x 3072",
+      "camera": "NIKON D3100"
+    },
+    {
+      "author": "Evie S",
+      "name": "White Flower",
+      "wall_url": "https://images.unsplash.com/photo-1515096788709-a3cf4ce0a4a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=953&q=80",
+      "author_url": "https://unsplash.com/@evieshaffer",
+      "wall_details": "5 tiers of glass to create this layered effect and placed cuts of branches in between each layer",
+      "wall_date": "January 4, 2018",
+      "wall_dimens": "4287 x 3283",
+      "camera": "NIKON D750"
+    },
+    {
+      "author": "Oriova Maria",
+      "name": "Abstract Purple",
+      "wall_url": "https://images.unsplash.com/photo-1549490349-8643362247b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "author_url": "https://unsplash.com/@orlovamaria",
+      "wall_details": "A splash of purple paint",
+      "wall_date": "February 6, 2019",
+      "wall_dimens": "2000 * 3000",
+      "camera": "Unknown"
+    },
+    {
+      "author": "Rhonda K",
+      "name": "Assorted Paint brushes",
+      "wall_url": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+      "author_url": "https://unsplash.com/@rhondak",
+      "wall_details": "Tools of the final product",
+      "wall_date": "April 14, 2016",
+      "wall_dimens": "2448 * 2448",
+      "camera": "Apple"
+    },
+    {
+      "author": "Ian Dooley",
+      "name": "Shallow Focus",
+      "wall_url": "https://images.unsplash.com/photo-1501472312651-726afe119ff1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "author_url": "https://unsplash.com/@sadswim",
+      "wall_details": "Focus more, achieve more",
+      "wall_date": "July 30, 2017",
+      "wall_dimens": "3840 * 5760",
+      "camera": "Canon"
+    },
+    {
+      "author": "Markus Spiske",
+      "name": "Photo Frame",
+      "wall_url": "https://images.unsplash.com/photo-1514880448122-7e417213b996?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "author_url": "https://unsplash.com/@markusspiske",
+      "wall_details": "Made with the Canon 5d Mark III",
+      "wall_date": "January 2, 2018",
+      "wall_dimens": "3840 * 5760",
+      "camera": "Canon EOS 5D Mark III"
+    },
+    {
+      "author": "Amaury Salas",
+      "name": "Person's Hands",
+      "wall_url": "https://images.unsplash.com/photo-1501366062246-723b4d3e4eb6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=773&q=80",
+      "author_url": "https://unsplash.com/@eseamau",
+      "wall_details": "Hands of art",
+      "wall_date": "July 29, 2017",
+      "wall_dimens": "6000 * 3886",
+      "camera": "SLT-A99V"
+    },
+    {
+      "author": "John Schaildler",
+      "name": "Multicolor",
+      "wall_url": "https://images.unsplash.com/photo-1570393080660-de4e4a15a247?ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+      "author_url": "https://unsplash.com/@schaidler",
+      "wall_details": "Abstract Wall Color",
+      "wall_date": "October 6, 2019",
+      "wall_dimens": "4032 * 3024",
+      "camera": "Iphone 7"
+    },
+    {
+      "author": "Milan Popovic",
+      "name": "Orange Votive",
+      "wall_url": "https://images.unsplash.com/photo-1514410432920-a6ed15a94c7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "author_url": "https://unsplash.com/@itsmiki5",
+      "wall_details": "It's okay to lose yourself for a little while. In books, music, and in art.",
+      "wall_date": "December 27, 2017",
+      "wall_dimens": "3072 * 4608",
+      "camera": "NIKON D3100"
+    },
+    {
+      "author": "Tim Chow",
+      "name": "Green Fern",
+      "wall_url": "https://images.unsplash.com/photo-1546387903-6d82d96ccca6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80",
+      "author_url": "https://unsplash.com/@timchowstudio",
+      "wall_details": "Clear glass phase photo.",
+      "wall_date": "January 1, 2019",
+      "wall_dimens": "5600 * 3733",
+      "camera": "Unknown"
+    },
+    {
+      "author": "David Brooke Martin",
+      "name": "Jade Plant",
+      "wall_url": "https://images.unsplash.com/photo-1548262016-9bf97ff61020?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "author_url": "https://unsplash.com/@dbmartin00",
+      "wall_details": "Winter Bloom",
+      "wall_date": "January 23, 2019",
+      "wall_dimens": "6000 * 4000",
+      "camera": "D7200"
+    }
+  ]
+}
