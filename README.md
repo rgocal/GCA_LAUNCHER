@@ -1,2 +1,2 @@
 # GCA_LAUNCHER
-A public repository setup for GCA Launcher for issues and request. This will be alot easier to manage that handing off information via telegram.
+A repository setup for public information regarding GCA Launcher development and ota request.
