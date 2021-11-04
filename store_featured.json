@@ -1,0 +1,22 @@
+{
+  "featured": [
+    {
+      "title": "Major Title",
+      "sub_title": "We talk about the event here",
+      "panel_url": "https://images.unsplash.com/photo-1523895665936-7bfe172b757d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "intent_url": "https://unsplash.com/@steve_j"
+    },
+    {
+      "title": "Hello World",
+      "sub_title": "Broadcasting from github!",
+      "panel_url": "https://images.unsplash.com/photo-1523895665936-7bfe172b757d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "intent_url": "https://unsplash.com/@steve_j"
+    },
+    {
+      "title": "Buy My Stuff!",
+      "sub_title": "Because you like the things i build!",
+      "panel_url": "https://images.unsplash.com/photo-1523895665936-7bfe172b757d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "intent_url": "https://unsplash.com/@steve_j"
+    }
+  ]
+}
